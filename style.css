@@ -24,3 +24,21 @@ nav a.active {
   background-color: #04AA6D;
   color: white;
 }
+
+body{
+  font-family: 'Courier New', Courier, monospace;
+}
+
+h1{
+  background-color: rgb(84, 155, 13);
+}
+
+figure img{
+  max-width: 70%;
+  height: auto;
+}
+
+.video{
+  aspect-ratio: 16/9;
+  width: 70%;
+}
