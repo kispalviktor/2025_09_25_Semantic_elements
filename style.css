@@ -42,3 +42,32 @@ figure img{
   aspect-ratio: 16/9;
   width: 70%;
 }
+
+form{
+    max-width: 500px;
+    background: rgb(84, 155, 13);
+    padding: 15px;
+    max-width: 500px;
+    margin: auto;
+}
+
+label{
+    display: block;
+    color: rgb(0, 0, 0)
+}
+
+legend{
+    color: rgb(0, 0, 0)
+}
+
+input{
+    padding-left: 322px;
+}
+
+#uh{
+    color: rgb(0, 0, 0)
+}
+
+fieldset{
+    background-color: brown;
+}
